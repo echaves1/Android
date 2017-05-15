@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_df14d7e50d13c0afd08c035e07735bcc46d2960d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0993eabc8fccefdc517abdc95c8150d9100f6212">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aeb98b4958e78e7d41125fdca16841ecac3786ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b6fee3fe6cfc7ce22dcfb9c059b8b992748ebb8">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99038ff78409e4fcdbd68af56dfd36beefe3aab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_0ea27e5459c26bad01cf70d72e15c1d5a83e6bb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_039ba3432b2fe718c031b98ad6d01f6c864696af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_a4f3729239af75554101591748053981926fe3d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_2004b046ad1bb41d7411776040c9ef9147c3cf3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2b3e08764b0ac8594a646cfbdd361c9748d98c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_4b3f464758edc0e9e83398ad16a04a08e623fa83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d50ca45fe57ceb74263ee4cc4579284af734dc4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_1114aaa59ccb4fecd3a6cd71a1146565ea287ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_209baebf95c977fecabc3e7cc18c7248d9d1f65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_8e8f15d9c9f1274987c86fead97320c6b0516835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_e475452511d64d23124e9b53af37b0c5cd838a86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_18ade5ee1fad59d8f0db9409a8ae441e5f6e0e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_0cf743dbe1374695284aba1b2648f21d950f27a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_4cdf7b86ccd8c59ae68adfe05b0f5704f1dc6b53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_a0fb3d3f2892fcd1b1dcf1ab1a8f3a664317c86f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_899c6c0f6d1da216fecc722eb92bad6f2041d706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_1c6a32a1538728e64f178e84a0c635a5953f887e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Eri\Notas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Eri\Notas\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_3e4b59b7fece1ff39c75b227891a31da4f5b2189\classes.dex" />
+    </item>
+
+</items>

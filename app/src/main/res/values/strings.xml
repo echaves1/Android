@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="fechar_e_voltar">Fechar e Voltar</string>
+    <string name="erro_login">Entre com os dados corretamente!</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="gravar_dados">Gravar Dados</string>
+    <string name="excluir_chaves">Excluir Chaves</string>
+    <string name="carregar_chaves">Carregar Chaves</string>
+    <string name="verificar_chaves">Verificar Chaves</string>
+    <string name="dados_conta">FIAP Notas - Dados da Conta</string>
+    <string name="gravar_arquivo">Gravar Arquivo</string>
+    <string name="ler_arquivo">Ler Arquivo</string>
+    <string name="excluir_arquivo">Excluir Arquivo</string>
+    <string name="validacao_conta"><![CDATA[Preencha os dados de cadastro corretamente>]]></string>
+    <string name="cadastro_ok">Cadastro efetuado com sucesso!</string>
+    <string name="exclusao_ok">Dados excluídos com sucesso.</string>
+    <string name="login_ok">Dados de login existentes.</string>
+    <string name="login_nok">Dados de login inexistentes.</string>
+    <string name="arquivo_ok">Arquivo gravados com sucesso.</string>
+    <string name="arquivo_nok">Não foi possível gravar o arquivo.</string>
+    <string name="ler_arq_nok">Não foi possível ler o arquivo.</string>
+    <string name="exclusao_arq_ok">Arquivo excluído com sucesso.</string>
+    <string name="exclusao_arq_nok">Não foi possível excluir o arquivo.</string>
+    <string name="primeiro_acesso">Primeiro Acesso</string>
+</resources>
